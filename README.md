@@ -1,0 +1,1 @@
+ceci est une formation pour comprendre le ripostorique ( le depot local et github)
